@@ -1,0 +1,344 @@
+<resources>
+    <string name="app_name">App Name</string>
+    <string name="prompt_email">Enter your Email id</string>
+    <string name="prompt_password">Enter your Password</string>
+    <string name="register_here">Register</string>
+    <string name="prompt_fullname">Enter your Name</string>
+    <string name="prompt_confirm_password">Confirm password</string>
+    <string name="loading_text_crops">From little seeds grow mighty trees.</string>
+    <string name="demo_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+
+    <string name="forgot_password">Enter the email address associated with your account:</string>
+    <string name="tryanother"><u>Try a different email</u></string>
+    <!-- detect disease part-->
+    <string name="buttonSelectPhoto">Select Photo</string>
+    <string name="buttonTakePhoto">Start Camera</string>
+    <string name="buttonDiagnose">Detect</string>
+    <string name="defaultImage">Default image set now...</string>
+    <string name="descriptionImage">View for displaying image</string>
+
+    <string name="open_gallery">OPEN GALLERY</string>
+    <string name="start_camera">START CAMERA</string>
+    <string name="resultTxt">Your Result</string>
+    <string name="detect_txt">First import or capture an image \nWhen is load into the ImageView, you are ready to detect the disease</string>
+    <string name="detect_txt_2">First capture an image \nWhen is load into the ImageView, you are ready to detect the disease</string>
+
+
+    <string name="available_crops"><b>Available Crops:</b> Apple, Potato, and Grape</string>
+    <string name="available_crops_by_leaf"><b>Available crops:</b> apple, blueberry, cherry, corn, grape, peach, pepper, potato, tomato, raspberry, strawberry, alstonia scholaris, arjun, basil, chinar, gauva, jamun, jatropha, lemon, mango, pomegranate, and pongamia pinnata</string>
+    <string name="available_flowers"><b>Available flowers:</b> "pink primrose",
+"hard-leaved pocket orchid",
+"canterbury bells",
+"sweet pea",
+"english marigold",
+"tiger lily",
+"moon orchid",
+"bird of paradise",
+"monkshood",
+"globe thistle",
+"snapdragon",
+"colt's foot",
+"king protea",
+"spear thistle",
+and many more..
+</string>
+    <string name="apple_scab"><b>Choose scab-resistant</b> varieties of apple or crabapple trees.\n<b>Rake up</b> and discard any fallen leaves or fruit on a regular basis, and never leave fallen leaves or fruit on the ground over winter. Apple scab fungus overwinters on fallen leaves and fruit.\n<b>Prune</b> your apple and crabapple trees to keep their crowns open so light and air can move through. Dry leaves and fruit help to prevent initial infection.\n<b>Plant</b> your apple and crabapple trees correctly, in full sun and with enough space around each tree, according to their mature size. Shade keeps water from evaporating quickly, and crowded trees are more susceptible to the disease.\n<b>Irrigate</b> your trees in the early morning hours, and don’t use overhead sprays that will wet leaves and fruit. Dry leaves won’t host the fungus.</string>
+    <string name="apple_black_rot">\nPrune out dead or diseased branches.\nPick all dried and shriveled fruits remaining on the trees.\nRemove infected plant material from the area.\nAll infected plant parts should be burned, buried or sent to a municipal composting site.\nBe sure to remove the stumps of any apple trees you cut down. Dead stumps can be a source of spores.</string>
+    <string name="cedar_apple_rust">Choose resistant cultivars when available.\nRake up and dispose of fallen leaves and other debris from under trees.\nRemove galls from infected junipers. In some cases, juniper plants should be removed entirely.\nApply preventative, disease-fighting fungicides labeled for use on apples weekly, starting with bud break, to protect trees from spores being released by the juniper host. This occurs only once per year, so additional applications after this springtime spread are not necessary.\nOn juniper, rust can be controlled by spraying plants with a copper solution (0.5 to 2.0 oz/ gallon of water) at least four times between late August and late October.</string>
+    <string name="cherry_powdery_mildew">Start looking for the first colonies about 1 week after the first irrigation.\nRemove and destroy sucker shoots.\nKeep irrigation water off developing fruit and leaves by using irrigation that does not wet the leaves. Also, keep irrigation sets as short as possible.\nFollow cultural practices that promote good air circulation, such as pruning, and moderate shoot growth through judicious nitrogen management.</string>
+    <string name="corn_grey_spot">The most proficient and economical method to reduce yield losses from corn grey leaf spot is by introducing resistant plant varieties\nIn places where leaf spot occur, these crops can ultimately grow and still be resistant to the disease. Although the disease is not completely eliminated and resistant varieties show disease symptoms, at the end of the growing season, the disease is not as effective in reducing crop yield.\nThe amount of initial inoculum will be reduced when a crop other than corn is planted for ≥2 years in that given area; meanwhile proper tillage methods are carried out. Clean plowing and 1-year crop rotation in the absence of corn allows for greater reductions of the disease as well. Note that conventional tilling can reduce disease but can lead to greater soil erosion</string>
+    <string name="corn_leaf_blight">Control of this disease is often focused on management and prevention. First, choose corn varieties or hybrids that are resistant or at least have moderate resistance to northern corn leaf blight. When you grow corn, make sure it does not stay wet for long periods of time. The fungus that causes this infection needs between six and 18 hours of leaf wetness to develop. Plant corn with enough space for airflow and water in the morning so leaves can dry throughout the day.</string>
+    <string name="grape_black_rot">Infected prunings and mummified berries should be removed, burned, and/or buried in the soil before new growth begins in the spring. In vineyards with susceptible varieties or where black rot was a problem the previous year, early season fungicide sprays should be timed to prevent the earliest infections. Should infections become numerous, protecting against fruit rot is very difficult later in the growing season. Planting resistant varieties is strongly suggested.</string>
+    <string name="grape_esca_black_measles">Presently, there are no effective management strategies for measles. Wine grape growers with small vineyards will often have field crews remove infected fruit prior to harvest. Raisins affected by measles will be discarded during harvest or at the packing house, while table grape growers will leave affected fruit on the vine. Current research is focused on protecting pruning wounds from fungal infections to minimize suspect fungi from colonizing fresh wounds.</string>
+    <string name="grape_isariopsis_leaf_spot">Fungicides sprayed for other diseases in the season may help to reduce this disease.</string>
+    <string name="peach_bacterial_spot">The most vulnerable cultivars are: ‘Autumnglo’ ‘Autumn Lady’ ‘Blake’ ‘Elberta’ ‘Halehaven’ ‘July Elberta’</string>
+    <string name="potato_early_blight">Treatment of early blight includes prevention by planting potato varieties that are resistant to the disease; late maturing are more resistant than early maturing varieties.\nAvoid overhead irrigation and allow for sufficient aeration between plants to allow the foliage to dry as quickly as possible. Practice a 2-year crop rotation. That is, do not replant potatoes or other crops in this family for 2 years after a potato crop has been harvested.</string>
+    <string name="potato_late_blight">Choose the right variety: Though no tomato varieties are completely immune to late blight, plant breeders are now developing varieties that are resistant to infection by the late blight fungus. So, when its time to decide which varieties to plant, keep an eye out for these.\nPrevent overwintering: Fortunately, the fungus that causes late blight needs living tissue to survive over the winter, so it can not overwinter on tomato cages or supports.\nGive plants space: If possible, avoid planting tomatoes and potatoes where you had them last year. \nAvoid watering from above: Using soaker hoses or drip irrigation keep foliage dry, which makes it more difficult for late blight — and other diseases — to spread. </string>
+    <string name="strawberry_leaf_scorch">While leaf scorch on strawberry plants can be frustrating, there are some strategies which home gardeners may employ to help prevent its spread in the garden. The primary means of strawberry leaf scorch control should always be prevention.</string>
+    <string name="tomato_bacterial_spot">Using pathogen-free seed and disease-free transplants, when possible, is the best way to avoid bacterial spot on tomato. Avoiding sprinkler irrigation and cull piles near greenhouse or field operations, and rotating with a nonhost crop also helps control the disease.</string>
+    <string name="tomato_early_blight">Practice crop rotation by planting tomatoes in a section of the garden that has not been used to grow tomatoes or any other member of the Solanaceae family, such as eggplant, potatoes or peppers, in the last two years.\nRead seed packages or plant labels carefully to select a tomato variety that is resistant to blight.\nStake or cage tomato plants so that foliage grows vertically, off the ground.\nMulch well around plants.</string>
+    <string name="tomato_late_blight">Tomato varieties resistant to certain races of the late blight fungus are grown where the disease occurs regularly.\nRemove any nearby volunteer tomato and potato plants and nightshades.\nCheck transplants to ensure they are free of late blight before planting.\nAvoid sprinkler irrigation, if possible, because it favors the development of late blight.</string>
+    <string name="tomato_leaf_mold">The pathogen P. fulfa can survive on infected plant debris or in the soil, although the initial source of the disease is often infected seed. The disease is spread by rain and wind, on tools and clothing, and via insect activity.\nHigh relative humidity (greater that 85%) combined with high temperatures encourages the spread of the disease. With that in mind, if growing tomatoes in a greenhouse, maintain night temps higher than outside temperatures.</string>
+    <string name="tomato_spetoria_leaf_spot">Removing infected leaves. Remove infected leaves immediately, and be sure to wash your hands and pruners thoroughly before working with uninfected plants.\nConsider organic fungicide options. Fungicides containing either copper or potassium bicarbonate will help prevent the spreading of the disease. Begin spraying as soon as the first symptoms appear and follow the label directions for continued management.</string>
+    <string name="tomato_target_spot">Do not plant new crops next to older ones that have the disease.\nPlant as far as possible from papaya, especially if leaves have small angular spots (Photo 5).\nCheck all seedlings in the nursery, and throw away any with leaf spots.Remove a few branches from the lower part of the plants to allow better airflow at the base\nRemove and burn the lower leaves as soon as the disease is seen, especially after the lower fruit trusses have been picked.</string>
+    <string name="tomato_yellow_leaf_curl">Rapid and precise tests for Tomato yellow leaf curl virus are available at UC Davis and CDFA. These tests can be carried out in less than 24 hours. Anyone finding tomatoes with TYLC-like symptoms can contact their county farm advisor, Robert L. Gilbertson at UC Davis, or Tongyan Tian at CDFA.</string>
+    <string name="tomato_mosaic_virus">Destroy any seedlings that appear stunted or distorted and then decontaminate tools and hands.\nKeep the area around the tomatoes weeded and free of plant detritus to minimize areas the disease can harbor. Control insects as well to lessen the chances of contamination.</string>
+    <string name="tomato_spider_mites">If your tomato plants are thirsty, spider mites can move in. Practice a regular watering routine to keep the soil moist, but not waterlogged. They are often found on dusty plants. If possible, water the plants from above to chase away any dust and insects that may have gathered.</string>
+    <string name="grey_common_rust">Management strategies for gray leaf spot include tillage, crop rotation and planting resistant hybrids.\nFungicides may be needed to prevent significant loss when plants are infected early and environmental conditions favor disease.</string>
+    <string name="apple_healthy">You are going good!!</string>
+    <string name="scales">1. Scales: These remain covered inside a hard coating which looks like a waxy scale and infests lower surface of leaves and veins of branches.</string>
+    <string name="thrip">2. Thrips: These are minute sucking insects that mainly attack tender leaves, twigs and flower buds, making the affected plants weak with burnt appearance.</string>
+    <string name="aphids">3. Aphids: These brownish or green insects suck sap from tender shoots, leaves and flower buds. The affected plant becomes weak and retards in growth.</string>
+    <string name="mealybugs">4. Mealybugs: These are small fleshy insects which remain covered in white, wooly and waxy secretions. Generally, older plants are affected.</string>
+    <string name="whitefiles">5. Whiteflies: These are tiny insects, white in color and are very active in damp and dark conditions.</string>
+    <string name="spider_mites">6. Spider-Mites: This is a minute dot sized dangerous, shoot sucking pest, red in color, almost invisible to the naked eyes, resembling the spider but not an actual spider.</string>
+    <string name="caterpillr">7. Caterpillars: Various caterpillars feed on foliage, they damage the leaves by feeding continuously.</string>
+    <string name="leaf_bettle">8. Leaf Beetles and Weevils: These leaf infesting flying insects are considered as serious pests on flowering plants like Roses.</string>
+    <string name="cut_worms">9. Cut worms: This bug remains in the soil and attacks the plant at ground level.</string>
+    <string name="leaf_miner">10. Leaf-miners: The larvae of theses insects mine into leaves between tissue layers, leaving excreta on leaf surface and creating typical white patterns on leaves.</string>
+    <string name="reset">Reset</string>
+    <string name="showPrecautions">Cure</string>
+    <string name="management_text">For cure click Management button</string>
+
+    <string name="action_search">Search</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="later">Later</string>
+
+    <string name="wind">Wind</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="uvindex">UV Index</string>
+
+    <string name="last_update">Last updated:\n%s</string>
+    <string name="last_update_widget">\nLast update: %s</string>
+
+    <string name="search_title">Search for city</string>
+
+    <string name="downloading_data">Downloading your data ...</string>
+    <string name="getting_location">Getting your location ...</string>
+
+    <string name="loading_data">Loading...</string>
+
+    <string name="error_dateFormat">DATE FORMAT ERROR</string>
+
+    <string name="setting_dateFormat">Date Format</string>
+    <string name="setting_dateFormatCustom">Custom Date Format</string>
+    <string name="setting_dateFormatCustom_summary">Provide the custom SimpleDateFormat string to be used</string>
+    <string name="setting_lengthUnits">Length units</string>
+    <string name="setting_speedUnits">Speed units</string>
+    <string name="setting_tempUnits">Temperature units</string>
+    <string name="setting_showTempAsInteger">Show temperature only as an integer</string>
+    <string name="setting_pressureUnits">Pressure units</string>
+    <string name="setting_theme">Theme</string>
+    <string name="setting_transparent_widget">Make widget transparent</string>
+    <string name="setting_auto_detect_location">Detect Location</string>
+    <string name="setting_differentiateDaysByTint">Differentiate Days with Color</string>
+    <string name="setting_refreshInterval">Background refresh interval</string>
+    <string name="setting_unit_mps">Meters per second (m/s)</string>
+    <string name="setting_unit_kph">Kilometers per hour (kph)</string>
+    <string name="setting_unit_mph">Miles per hour (mph)</string>
+    <string name="setting_unit_bft">Beaufort wind scale (bft)</string>
+    <string name="setting_unit_kn">Knots (kn)</string>
+    <string name="setting_wind_direction_format">Wind direction format</string>
+    <string name="settings_none">None</string>
+    <string name="setting_apiKey">API key</string>
+    <string name="setting_apiKey_summary">Custom API key for OpenWeatherMap queries</string>
+
+    <string name="setting_unit_Celsuis">Celsius</string>
+    <string name="setting_unit_Fahrenheit">Fahrenheit</string>
+    <string name="setting_unit_Kelvin">Kelvin</string>
+
+    <string name="setting_unit_mm">Millimeters (mm)</string>
+    <string name="setting_unit_in">Inches (in)</string>
+
+    <string name="setting_unit_hpa">hPa</string>
+    <string name="setting_unit_kpa">kPa</string>
+    <string name="setting_unit_mmhg">mm Hg</string>
+    <string name="setting_unit_inhg">in Hg</string>
+
+    <string name="speed_unit_mps">m/s</string>
+    <string name="speed_unit_kph">kph</string>
+    <string name="speed_unit_mph">mph</string>
+    <string name="speed_unit_kn">kn</string>
+
+    <string name="wind_direction_format_none">No indication</string>
+    <string name="wind_direction_format_arrows">Arrows</string>
+    <string name="wind_direction_format_abbreviations">Abbreviations</string>
+
+    <string name="pressure_unit_hpa">hPa</string>
+    <string name="pressure_unit_kpa">kPa</string>
+    <string name="pressure_unit_mmhg">mm Hg</string>
+
+    <string name="setting_theme_fresh">Fresh</string>
+    <string name="setting_theme_classic">Classic</string>
+    <string name="setting_theme_dark">Fresh Dark</string>
+    <string name="setting_theme_classic_dark">Classic Dark</string>
+    <string name="setting_theme_black">Fresh Black</string>
+    <string name="setting_theme_classic_black">Classic Black</string>
+
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+
+    <string name="msg_err_parsing_json">Connection timeout.</string>
+    <string name="msg_connection_problem">There is a problem with your internet connection.</string>
+    <string name="msg_connection_not_available">Connection not available.</string>
+    <string name="msg_city_not_found">Specified city is not found.</string>
+
+    <string name="weather_sunny" translatable="false">&#xf00d;</string>
+    <string name="weather_clear_night" translatable="false">&#xf02e;</string>
+    <string name="weather_foggy" translatable="false">&#xf014;</string>
+    <string name="weather_cloudy" translatable="false">&#xf013;</string>
+    <string name="weather_rainy" translatable="false">&#xf019;</string>
+    <string name="weather_snowy" translatable="false">&#xf01b;</string>
+    <string name="weather_thunder" translatable="false">&#xf01e;</string>
+    <string name="weather_drizzle" translatable="false">&#xf01c;</string>
+
+
+    <string name="wind_direction_north">N</string>
+    <string name="wind_direction_north_north_east">NNE</string>
+    <string name="wind_direction_north_east">NE</string>
+    <string name="wind_direction_east_north_east">ENE</string>
+    <string name="wind_direction_east">E</string>
+    <string name="wind_direction_east_south_east">ESE</string>
+    <string name="wind_direction_south_east">SE</string>
+    <string name="wind_direction_south_south_east">SSE</string>
+    <string name="wind_direction_south">S</string>
+    <string name="wind_direction_south_south_west">SSW</string>
+    <string name="wind_direction_south_west">SW</string>
+    <string name="wind_direction_west_south_west">WSW</string>
+    <string name="wind_direction_west">W</string>
+    <string name="wind_direction_west_north_west">WNW</string>
+    <string name="wind_direction_north_west">NW</string>
+    <string name="wind_direction_north_north_west">NNW</string>
+    <string name="msg_too_many_requests">Too many requests. Please try again.</string>
+
+    <!-- 1: temperature; 2: unit -->
+    <string name="dash_clock_status">%1$s%2$s</string>
+    <!-- 1: temperature; 2: unit; 3: weather description -->
+    <string name="dash_clock_expanded_title">%1$s%2$s - %3$s</string>
+    <!-- 1: city; 2: country; 3: wind; 4: speed units; 5: pressure; 6: pressure units; 7: humidity -->
+    <string name="dash_clock_expanded_body">%1$s, %2$s\nWind: %3$s %4$s\nPressure: %5$s %6$s\nHumidity: %7$s %%\n</string>
+    <string name="settings_title_units">Units</string>
+    <string name="settings_title_display">Display</string>
+    <string name="settings_title_data">Data</string>
+    <string name="setting_displayDecimalZeroes">Display decimal zeroes</string>
+    <string name="settings_title_location">Location</string>
+    <string name="setting_update_location_automatically">Update location in background</string>
+
+    <string name="location_settings">Location Settings</string>
+    <string name="location_settings_message">Location is not enabled. Do you wish to go to the settings menu?</string>
+    <string name="location_settings_button">Settings</string>
+    <string name="action_weather_map">Weather Map</string>
+    <string name="rain">Rain</string>
+    <string name="temperature">Temperature</string>
+    <string name="action_graphs">Graphs</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_sign_name">Weathercast</string>
+    <string name="pref_previously_started" />
+    <string name="permission_request_denied">Permission request denied</string>
+    <string name="error_gif">x or y bound size should be at least %1$dpx and file size should be no more than %2$sM</string>
+    <string name="button_sure_default">Done</string>
+    <string name="button_sure">Exit</string>
+    <string name="button_preview">Pin</string>
+    <string name="write_your_enquiry">Write your enquiry...</string>
+    <string name="look_deep_into_nature">Look deep into nature</string>
+    <string name="no_query_found_create_one">No query found. Create one.</string>
+    <string name="take_action">Take action</string>
+    <string name="your_crop_is">Your crop is:</string>
+    <string name="_24_c">24*C</string>
+    <string name="suitable_weather">Suitable Weather</string>
+    <string name="more">More..</string>
+    <string name="culture">Culture</string>
+    <string name="details">Details</string>
+    <string name="crop_name">crop Name</string>
+    <string name="scientific_name">Scientific Name</string>
+    <string name="hi_there">Hi there</string>
+    <string name="welcome_to_samadhaan">Welcome to Grape Cure</string>
+    <string name="get_started">Get Started</string>
+    <string name="your_flower_is">Your flower is:</string>
+    <string name="click_on_the_result_to_know_more">Click on the result to know more..</string>
+    <string name="forgot_password_txt">Forgot Password</string>
+    <string name="send_instructions">Send Instructions</string>
+    <string name="graph">Graph</string>
+    <string name="let_s_log_in">Login First</string>
+    <string name="welcome_back_nyou_ve_been_missed">Welcome back!!</string>
+    <string name="show_password">Show Password</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="log_in">Log in</string>
+    <string name="detect_disease_from_your_crop">Detect disease</string>
+    <string name="take_a_picture">Open Camera</string>
+    <string name="get_the_result">Get the result</string>
+    <string name="get_ndiagnosis">Get\ndiagnosis</string>
+    <string name="identify_crop_by_leaf">Identify crop by leaf</string>
+    <string name="take_a_leaf_picture">Take a leaf picture</string>
+    <string name="identify_flower">Identify flower</string>
+    <string name="take_a_flower_picture">Take a flower picture</string>
+    <string name="location">LOCATION</string>
+    <string name="posted_by">Posted by:</string>
+    <string name="user_name">User name</string>
+    <string name="title_here">Title Here</string>
+    <string name="comments">Comments</string>
+    <string name="type_something">Type something..</string>
+    <string name="create_account">Create account.</string>
+    <string name="upload_image">Upload image</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="register">Register</string>
+    <string name="we_have_sent_instructions_to">We have sent instructions to:</string>
+    <string name="back_to_log_in">Back to Log In</string>
+    <string name="havent_s_received_an_email_check_your_spam_filter_or_copy">Havent’s received an email? check your spam filter or Copy</string>
+    <string name="plant_care">Plant Care</string>
+    <string name="_05_44_pm">05:44 PM</string>
+    <string name="date">14/05/2020</string>
+    <string name="weather_check">Weather Check</string>
+    <string name="next">Next</string>
+    <string name="more_info">More Info</string>
+    <string name="wwqq">wwqq</string>
+    <string name="crop_title">Crop Title</string>
+    <string name="crop_description">Crop Description</string>
+    <string name="_0_c">0 °C</string>
+    <string name="city_name_ab">City name, AB</string>
+    <string name="wind_0_m_s">Wind: 0 m/s</string>
+    <string name="pressure_0_hpa">Pressure: 0 hpa</string>
+    <string name="humidity_0">Humidity: 0 %</string>
+    <string name="sunrise_00_00">Sunrise: 00:00</string>
+    <string name="sunset_00_00">Sunset: 00:00</string>
+    <string name="locations">Locations</string>
+    <string name="c">C</string>
+    <string name="textview">TextView</string>
+    <string name="des">des</string>
+    <string name="create_your_enquiry">Create your enquiry</string>
+    <string name="enquiry_title">Enquiry title..</string>
+    <string name="write_s_your_enquiry">Write\'s your enquiry?</string>
+    <string name="post">Post</string>
+    <string name="post_title">Post title</string>
+    <string name="text_comment_goes_here">Text Comment Goes Here</string>
+    <string name="_10_20">10:20</string>
+    <string name="change_language"><u>Change Language</u></string>
+    <string name="choose_language">Select your language</string>
+
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="toggle_turn_on">NN:On</string>
+    <string name="toggle_turn_off">NN:Off</string>
+    <string name="toggle">Use NNAPI</string>
+    <string name="tflite">tflite</string>
+    <string name="nnapi">NNAPI</string>
+    <string name="threads">Threads:</string>
+
+    <string name="model">Model:</string>
+    <string-array name="models">
+        <item>Quantized</item>
+        <item>Float</item>
+    </string-array>
+
+    <string name="device">Device:</string>
+    <string name="grape_mango"><![CDATA[Grape & Rice]]></string>
+    <string name="click_to_check_weather">Click to check Weather</string>
+    <string name="grape_black_rot_tv"><b>Symptoms:</b>\nIrregular spots appear on the leaves, which are framed by a dark line. Shoots, stems and leaf stalks can also show symptoms of these spots. If leaf stalks are affected the whole leaves will dry. Grapes will show grey discolorations in the first beginning, which then turn to reddish-brown or violet spots. The fruit will become deformed and eventually be shriveled and black mummified.\n\n<b>Organic Control:</b>\nImmediately after blooming stage you can spray Bacillus thuringiensis.\n\n<b>Chemical Control:</b>\nChemical applications are done in a preventive manner. Start spraying roughly two weeks before bloom with captan + mycobutanil or mancozeb + mycobutanil. Just before the blossoms open you can also use carbaryl or imidacloprid. Post-bloom spray mancozeb + mycobutanil, imidacloprid or azadirachtin. Ten days after bloom you can also apply a mixture of captan and sulfur on your vines. Because most grape varieties become resistant to the infection three to four weeks after bloom, chemical sprays should be avoided at that time.\n\n<b>Preventive Measures:</b>\n\t> Choose a more resistant variety if available.\n\t> Remove fruit mummies from the vine.\n\t> Infested wood and twines should be removed and destroyed after harvest.\n\t> Consequently remove infested leaves from the vineyard.\n\t> Keep your vineyard clear of weeds.\n\t> Provide proper air circulation and lighting.\n\t> Prune your vines every year before the vegetative stage.</string>
+    <string name="grape_esca_tv"><b>Symptoms:</b>\nThe disease may occur at any time during the growing season. The main symptom is an interveinal \'striping\' on the leaves, which is characterized by the discoloration and drying of the tissues around the main veins. It usually shows as dark red in red varieties and yellow in white ones. Leaves can dry out completely and drop prematurely. On berries, small, round, dark spots, often bordered by a brown-purple ring, may occur. These fruit spots may appear at any time between fruit set and ripening. In severely affected vines, the berries often crack and dry. Cross-sectional cuts through affected canes, spurs, cordons, or trunks reveal concentric rings formed by dark spots. A severe form of Esca known as \'apoplexy\' results in a sudden dieback of the entire vine.\n\n<b>Organic Control:</b>\nSoak dormant cuttings for 30 mins in hot water at about 50°C. This treatment is not always effective and must therefore be combined with other methods. Some species of Trichoderma have been used to prevent the infection of pruning wounds, basal ends of propagation material, and graft unions. This treatment has to be carried out within 24 hours of pruning and again 2 weeks after.\n\n<b>Chemical Control:</b>\nAlways consider an integrated approach with preventive measures together with biological treatments if available. Chemical strategies to control this disease are difficult, since the traditional wound protectants do not penetrate deep enough in the dormant grapevine cuttings to affect the fungi. Preventive practices are the most effective management approach for all trunk diseases. For example, immediately before grafting, vines can be deeped into specialized waxes containing plant growth regulators or fungicide-impregnated formulations. This encourages graft union callus development while inhibiting fungal contamination.\n\n<b>Preventive Measures:</b>\n\t> Use alternative pruning methods such as delayed pruning or double pruning.\n\t> Avoid pruning during periods of heavy rainfall when spores are likely to be dispersed.</string>
+    <string name="grape_leaf_spot_tv"><b>Symptoms:</b>\nLeaf spots are caused by a range of fungi. These minor leaf spots rarely become severe enough to cause yield losses. Well-managed vineyards seldom have leaf spot diseases when fungicides are applied for other diseases.\n\n<b>Management:</b>\n\t• Promote plant vigor.\n\t• Increase air circulation to encourage drying of plant tissues (pruning, thinning, spacing, and managing weeds).\n\t• Apply fungicides (especially early season fungicides used to control primary disease</string>
+    <string name="fruits_classification">Fruits Classification</string>
+    <string name="select_gallery">Take an Image</string>
+    <string name="classify">Click to Classify</string>
+    <string name="veg_classification">Vegetable Classification</string>
+    <string name="potato_late">Potato Late Blight</string>
+    <string name="potato_late_tv">Late blight is controlled by eliminating cull piles and volunteer potatoes, using proper harvesting and storage practices, and applying fungicides when necessary. Air drainage to facilitate the drying of foliage each day is important. Under marginal conditions, overhead sprinkler irrigation can favor late blight; in Tule Lake under solid set sprinklers, conditions conducive to late blight development are enhanced by day time irrigation but not night time irrigation.\n\nPlant certified seed tubers. When late blight has developed on foliage and tubers are at risk of infection, make sure that vines are completely dead for 2 to 3 weeks before harvest. Phytophthora infestans does not survive very long in dead foliage.\n\nIn districts that are commonly subjected to outbreaks of late blight, preventive applications of fungicides are advised when environmental conditions are favorable for the disease. Continue fungicide applications at 7- to 10-day intervals as conditions require. Shorter intervals may be needed under cool, rainy conditions. In interior districts where late blight occurs sporadically, watch for disease symptoms during routine field monitoring, and record your results (example form—PDF). Apply fungicides when late blight lesions appear in the field or in nearby plantings.</string>
+    <string name="potato_early_tv">Early blight can be minimized by maintaining optimum growing conditions, including proper fertilization, irrigation, and management of other pests. Grow later maturing, longer season varieties. Fungicide application is justified only when the disease is initiated early enough to cause economic loss. Watch for disease symptoms during routine monitoring, and keep records of your results (example form—PDF). When justified, apply fungicides as soon as symptoms appear; continued protection requires application at 7- to 10-day intervals.</string>
+    <string name="apple_cedar_tv">When taken by mouth: Consuming apple cider vinegar in food amounts is likely safe. Apple cider vinegar is possibly safe when used as a medicine, short-term. But it is possibly unsafe when used in large amounts, long-term. Consuming large amounts of apple cider vinegar long-term might lead to problems such as low levels of potassium.\n\nWhen applied to the skin: Apple cider vinegar is possibly unsafe. Applying apple cider vinegar to the skin can cause chemical burns in some people. Pregnancy and breast-feeding: There isn\'t enough reliable information to know if apple cider vinegar is safe to use as a medicine when pregnant or breast-feeding. Stay on the safe side and stick to food amounts.\n\nLow potassium levels in the blood (hypokalemia): Apple cider vinegar might lower potassium levels in the blood. If your potassium is already low, apple cider vinegar might make it too low. Don\'t use apple cider vinegar if you have this condition.</string>
+    <string name="apple_black_rot_tv"><b>Practice good sanitation</b>\nReduce sources of spores for future infections:\n\n\tPrune out dead or diseased branches.\n\n\tPick all dried and shriveled fruits remaining on the trees.\n\n\tRemove infected plant material from the area.\n\n\tAll infected plant parts should be burned, buried or sent to a municipal composting site.\n\n\tBe sure to remove the stumps of any apple trees you cut down. Dead stumps can be a source of spores.</string>
+    <string name="apple_scab_tv">The main objective in scab management is the reduction or prevention of primary infections in spring. Extensive primary infections result in poor fruit set and make scab control during the season more difficult. If primary infections are successfully controlled, secondary infections will not be serious. The key to success in scab control is exact timing and full coverage. Wet periods, temperature, and relative humidity are important factors. Because scab control often is part of a combination treatment aimed at other diseases and insect control, choice of materials and timing are also extremely important.\n\nA fall foliar fertilizer application of zinc sulfate and urea hastens leaf fall and speeds decomposition of fallen leaves. This in turn reduces the level of overwintering apple scab inoculum.</string>
+    <string-array name="devices">
+        <item>CPU</item>
+        <item>GPU</item>
+        <item>NNAPI</item>
+    </string-array>
+</resources>

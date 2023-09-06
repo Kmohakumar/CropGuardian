@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey_200"
+    tools:context=".FruitsClassification">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:elevation="8dp"
+        android:id="@+id/rel1">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:elevation="4dp"
+            android:background="@color/black">
+
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/back"
+                android:background="@drawable/add_post_btn_ripple"
+                android:padding="@dimen/dp_8"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="12dp"
+                android:onClick="backToMain"/>
+
+
+            <LinearLayout
+                android:id="@+id/chooseLL"
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="12dp"
+                android:layout_marginEnd="12dp"
+                android:gravity="center">
+
+                <ImageView
+                    android:id="@+id/mGalleryButton"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:background="@drawable/add_post_btn_ripple"
+                    android:elevation="2dp"
+                    android:src="@drawable/add_gallry_detect"
+                    android:padding="8dp"
+                    android:layout_margin="6dp"/>
+
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:layout_below="@id/rel1">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardView"
+            android:layout_width="match_parent"
+            android:layout_height="290dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="10dp"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="6dp">
+
+            <ImageView
+                android:id="@+id/mPhotoImageView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+
+        </androidx.cardview.widget.CardView>
+
+        <Button
+            android:id="@+id/mDetectButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingStart="60dp"
+            android:paddingEnd="60dp"
+            android:layout_below="@id/cardView"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="20dp"
+            android:alpha="0"
+            android:background="@drawable/button_login_riple"
+            android:letterSpacing="0.1"
+            android:includeFontPadding="false"
+            android:text="Classify"
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/detectAs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Classify as:"
+            android:textSize="17sp"
+            android:alpha="0"
+            android:textColor="@color/black"
+            android:layout_below="@id/mDetectButton"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="60dp"
+            android:letterSpacing="0.03"/>
+
+        <TextView
+            android:id="@+id/mResultTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/detectAs"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="30dp"
+            android:alpha="0"
+            android:letterSpacing="0.06"
+            android:padding="4dp"
+            android:text="@string/resultTxt"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textColor="@color/grey_800"
+            android:textSize="23sp" />
+
+
+        <TextView
+            android:id="@+id/demoTxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/cardView"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginEnd="20dp"
+            android:padding="6dp"
+            android:alpha="1"
+            android:letterSpacing="0.02"
+            android:lineSpacingExtra="4dp"
+            android:text="Import image from gallery"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+
+    </RelativeLayout>
+
+</RelativeLayout>

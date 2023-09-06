@@ -1,0 +1,13 @@
+Bean
+Bitter_Gourd
+Bottle_Gourd
+Broccoli
+Cabbage
+Capsicum
+Carrot
+Cauliflower
+Cucumber
+Potato
+Pumpkin
+Radish
+Tomato
